@@ -1,0 +1,59 @@
+Texture	TexStand		images/megamanStand(1).png
+Texture	TexRun			images/megamanWalk_1_-removebg-preview.png
+Texture	TexGround		images/block(1).png
+Texture	TexBlock		images/brick_block(1).png
+Texture	TexCoin			images/CoinBlock(1).png
+Texture	TexSnakeDown	images/Snake_green_final.png
+Texture	TexSnakeUp		images/Snake_green_up.png
+Texture	TexSnakeLeft	images/Snake_green_left.png
+Texture	TexStone		images/Stone.png
+Texture	TexGem			images/Gem1.png
+Texture	TexExit			images/Exit.png
+Texture	TexG			images/ground.png
+Texture	TexGrass		images/Grass.png
+Texture	TexCheckpoint	images/Checkpoint.png
+Texture	TexBG			images/bg.png
+Texture	TexTileB		images/tile_B.png
+Texture	TexTileT		images/tile_T.png
+Texture	TexTileBL		images/tile_BL.png
+Texture	TexTileBR		images/tile_BR.png
+Texture	TexTileTL		images/tile_TL.png
+Texture	TexTileTR		images/tile_TR.png
+Texture	TexTileL		images/tile_L.png
+Texture	TexTileR		images/tile_R.png
+Texture	TexTileR_BL		images/tile_R_BL.png
+Texture	TexTileR_TL		images/tile_R_TL.png
+Texture	TexTileR_TR		images/tile_R_TR.png
+Texture	TexTileR_BR		images/tile_R_BR.png
+
+Animation	43			TexSnakeDown	8	10
+Animation	SnakeLeft	TexSnakeLeft	9	10
+Animation	SnakeUp		TexSnakeUp		4	10
+Animation	30			TexStone		1	0
+Animation	Stand		TexStand		1	0
+Animation	Run			TexRun			4	10
+Animation	Brick		TexGround		1	0
+Animation	26			TexBlock		1	0
+Animation	Coin		TexCoin			1	0
+Animation	27			TexGem			1	0
+Animation	25			TexExit			1	0
+Animation	28			TexGrass		1	0
+Animation	24			TexCheckpoint	1	0
+Animation	29			TexG			1	0
+Animation	23			TexBG			1	0
+Animation	31			TexTileB		1	0
+Animation	40			TexTileT		1	0
+Animation	32			TexTileBL		1	0
+Animation	33			TexTileBR		1	0
+Animation	41			TexTileTL		1	0
+Animation	42			TexTileTR		1	0
+Animation	34			TexTileL		1	0
+Animation	35			TexTileR		1	0
+Animation	36			TexTileR_BL		1	0
+Animation	37			TexTileR_BR		1	0
+Animation	38			TexTileR_TL		1	0
+Animation	39			TexTileR_TR		1	0
+
+
+Font Roboto-Bold fonts/Roboto-Bold.ttf
+Font Roboto-Black fonts/Roboto-Black.ttf
